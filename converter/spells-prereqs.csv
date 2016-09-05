@@ -39,15 +39,15 @@ Prereq Count,Spell,College
 8,Lightning Missiles,Air
 8,Lightning Stare (VH),Air
 8,Sandstorm,Air
-8,Summon Elemental,Air
+8,Summon Air Elemental,Air
 8,Warm,Air
 9,Atmosphere Dome,Air
-9,Control Elemental,Air
+9,Control Air Elemental,Air
 9,Cool,Air
 10,Body of Wind,Air
-10,Create Elemenal,Air
+10,Create Air Elemental,Air
 10,Storm,Air
-12,Liighting Armor,Air
+12,Lightning Armor,Air
 0,Beast-Rouser,Animal
 0,Beast-Soother,Animal
 1,Animal Control,Animal
@@ -60,7 +60,7 @@ Prereq Count,Spell,College
 2,Spider Silk,Animal
 3,Beast-Seeker,Animal
 3,Rider Within,Animal
-4,Beast Posssession,Animal
+4,Beast Possession,Animal
 4,Repel Hybrids (VH),Animal
 5,Permanent Beast Possession (VH),Animal
 6,Shapeshifting (VH),Animal
@@ -159,7 +159,7 @@ Varies,Boost Attribute,Body
 5,Possession (VH),Comm
 5,Telepathy (VH),Comm
 6,Borrow Skill,Comm
-6,Permanent Possession(VH),Comm
+6,Permanent Possession (VH),Comm
 6,Retrogression,Comm
 7,Message,Comm
 8,Insignificance,Comm
@@ -176,7 +176,7 @@ Varies,Boost Attribute,Body
 3,Stone to Earth,Earth
 4,Earth to Air,Earth
 4,Partial Petrification (VH),Earth
-4,Predice Earth Movement,Earth
+4,Predict Earth Movement,Earth
 4,Rain of Stones,Earth
 4,Sand Jet,Earth
 4,Stone Missile,Earth
@@ -190,9 +190,9 @@ Varies,Boost Attribute,Body
 8,Mud Jet,Earth
 8,Purify Earth,Earth
 8,Sandstorm,Earth
-8,Summon Elemental,Earth
-9,Control Elemental,Earth
-10,Create Elemenal,Earth
+8,Summon Earth Elemental,Earth
+9,Control Earth Elemental,Earth
+10,Create Earth Elemental,Earth
 11,Alter Terrain (VH),Earth
 13,Volcano,Earth
 29,Move Terrain (VH),Earth
@@ -223,7 +223,7 @@ Varies,Boost Attribute,Body
 11,Suspend Enchantment,Ench
 11,Temporary Enchantment,Ench
 12,Attune,Ench
-12,Dancing Sheild,Ench
+12,Dancing Shield,Ench
 12,Dancing Weapon,Ench
 12,Defending Weapon,Ench
 12,Ensorcel (VH),Ench
@@ -241,7 +241,7 @@ Varies,Boost Attribute,Body
 14,Quick-Aim,Ench
 15,Accuracy,Ench
 15,Hideaway,Ench
-15,Homonculus,Ench
+15,Homunculus,Ench
 15,Puissance,Ench
 16,Leak,Ench
 16,Spell Stone,Ench
@@ -285,10 +285,10 @@ Varies,Talisman,Ench
 7,Fire Cloud,Fire
 7,Flaming Armor,Fire
 8,Body of Flames (VH),Fire
-8,Summon Elemental,Fire
-9,Control Elemental,Fire
+8,Summon Fire Elemental,Fire
+9,Control Fire Elemental,Fire
 10,Burning Death (VH),Fire
-10,Create Elemenal,Fire
+10,Create Fire Elemental,Fire
 0,Seek Food,Food
 1,Decay,Food
 1,Far-Tasting,Food
@@ -374,7 +374,7 @@ Varies,Talisman,Ench
 5,Relieve Paralysis,Healing
 6,Healing Slumber,Healing
 6,Instant Regeneration (VH),Healing
-6,Resore Spech,Healing
+6,Restore Speech,Healing
 7,Suspended Animation,Healing
 8,Halt Aging (VH),Healing
 9,Relieve Madness,Healing
@@ -433,7 +433,7 @@ Varies,Talisman,Ench
 3,Plant Vision,Knowledge
 3,Trace,Knowledge
 3,Wizard Nose,Knowledge
-4,Far-Healing,Knowledge
+4,Far-Hearing,Knowledge
 4,History,Knowledge
 4,Know Recipe,Knowledge
 4,Plastic Vision,Knowledge
@@ -451,7 +451,7 @@ Varies,Talisman,Ench
 7,Schematic/TL,Knowledge
 7,Wizard Mouth,Knowledge
 8,Scents of the Past,Knowledge
-9,Know Trus Shape,Knowledge
+9,Know True Shape,Knowledge
 9,Recall,Knowledge
 10,Invisible Wizard Eye,Knowledge
 Varies,Divination,Knowledge
@@ -503,7 +503,7 @@ Varies,Divination,Knowledge
 4,Catch Spell (VH),Meta-Spell
 7,Magic Resistance,Meta-Spell
 8,Spell Shield,Meta-Spell
-9,Pentegram,Meta-Spell
+9,Pentagram,Meta-Spell
 9,Spell Wall,Meta-Spell
 9,Suspend Magic,Meta-Spell
 10,Displace Spell,Meta-spell
@@ -544,7 +544,7 @@ Varies,Divination,Knowledge
 2,Command,Mind
 2,Dullness (VH),Mind
 2,Encrypt,Mind
-2,Farcinate,Mind
+2,Fascinate,Mind
 2,Madness,Mind
 2,Mass Daze,Mind
 2,Mental Stun,Mind
@@ -584,7 +584,7 @@ Varies,Divination,Knowledge
 9,Relieve Madness,Mind
 10,Lesser Geas (VH),Mind
 14,Enslave (VH),Mind
-15,Gread Geas (VH),Mind
+15,Great Geas (VH),Mind
 Varies,Boost Attribute,Mind
 0,Inspired Creation (VH),Mk-Brk
 1,Restore,Mk-Brk
@@ -609,12 +609,12 @@ Varies,Boost Attribute,Mind
 9,Mapmaker,Mk-Brk
 9,Mystic Mark,Mk-Brk
 9,Sharpen,Mk-Brk
-9,Transparancy,Mk-Brk
+9,Transparency,Mk-Brk
 10,Fasten,Mk-Brk
 10,Shatterproof,Mk-Brk
 11,Toughen,Mk-Brk
 12,Weapon Self (VH),Mk-Brk
-14,Tranform Object (VH),Mk-Brk
+14,Transform Object (VH),Mk-Brk
 15,Contract Object (VH),Mk-Brk
 15,Extend Object (VH),Mk-Brk
 16,Enlarge Object (VH),Mk-Brk
@@ -767,7 +767,7 @@ Varies,Steal Attribute (VH),Necro
 3,Reflect Gaze (VH),Protection
 3,Resist Disease,Protection
 3,Resist Poison,Protection
-3,Returrn Missile,Protection
+3,Return Missile,Protection
 4,Iron Arm,Protection
 4,Resist Sound,Protection
 4,Warmth,Protection
@@ -799,7 +799,7 @@ Varies,Steal Attribute (VH),Necro
 3,Mage-Stealth,Sound
 3,Noise,Sound
 4,Converse,Sound
-4,Far-Healing,Sound
+4,Far-Hearing,Sound
 4,Resist Sound,Sound
 4,Scribe,Sound
 4,Sound Jet,Sound
@@ -911,13 +911,13 @@ Varies,Steal Attribute (VH),Necro
 8,Hail,Water
 8,Mud Jet,Water
 8,Resist Acid,Water
-8,Summon Elemental,Water
+8,Summon Water Elemental,Water
 8,Tide,Water
-9,Control Elemental,Water
+9,Control Water Elemental,Water
 9,Create Steam,Water
 9,Geyser (VH),Water
 10,Acid Jet,Water
-10,Create Elemenal,Water
+10,Create Water Elemental,Water
 10,Steam Jet,Water
 10,Storm,Water
 12,Icy Breath (VH),Water
@@ -955,4 +955,4 @@ Varies,Steal Attribute (VH),Necro
 9,Cool,Weather
 10,Storm,Weather
 12,Cloud-Vaulting (VH),Weather
-12,Liighting Armor,Weather
+12,Lightning Armor,Weather
