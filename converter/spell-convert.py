@@ -1,9 +1,11 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 from __future__ import print_function
 
 import csv
 import pprint
+import re
 import sys
 import xml.etree.ElementTree as ET
 
@@ -99,6 +101,12 @@ def parse_prereqs(elem):
 
     return connector.join(prereqs)
 
+gcs_name_re = re.compile(r' \(@[A-Za-z]+@\)$')
+def canonical_gcs_name(name):
+    gcs_name = name.lower()
+    gcs_name = gcs_name_re.sub('', gcs_name)
+    return gcs_name
+
 def parse_gcs(filename):
     tree = ET.parse(filename)
     root = tree.getroot()
@@ -132,9 +140,24 @@ def parse_gcs(filename):
         prereqs = elem.find('prereq_list')
         spell['prereq'] = (parse_prereqs(prereqs) if prereqs is not None else "none")
 
-        spells[spell['name'].lower()] = spell
+        spells[canonical_gcs_name(spell['name'])] = spell
 
     return spells
+
+def find_gcs_spell(gcs, scpl_name):
+    name = scpl_name.lower()
+    if name.endswith(' (vh)'): name = name[:-5]
+    if name.endswith('/tl'): name = name[:-3]
+    candidate_names = [name, name.replace('-', ' '), name.replace("’", "'"), name.replace('ä', 'a'), name.replace('sense', '@sense@')]
+    for candidate_name in candidate_names:
+        if candidate_name in gcs: break
+
+    try:
+        spell = gcs[candidate_name]
+        return candidate_name, spell
+    except KeyError as e:
+        print("Could not find spell %s (%s) in GCS" % (name, scpl_name, ), file=sys.stderr)
+        return None, None
 
 def annotate_csv(gcs_file, scpl_file):
     gcs = parse_gcs(gcs_file)
@@ -142,16 +165,22 @@ def annotate_csv(gcs_file, scpl_file):
     out_fields = scpl.fieldnames + gcs_fields + ['difficulty', 'prereq']
     out = csv.DictWriter(sys.stdout, out_fields)
     out.writeheader()
+
+    gcs_spells_found = set()
     for line in scpl:
         pprint.pprint(line)
-        name = line['Spell'].lower()
-        if name.endswith(' (vh)'): name = name[:-5]
-        try:
-            spell = gcs[name]
+        name, spell = find_gcs_spell(gcs, line['Spell'])
+        if spell:
             line.update(spell)
-        except KeyError as e:
-            print("Could not find spell %s (%s) in GCS" % (name, line['Spell'], ), file=sys.stderr)
+            gcs_spells_found.add(name)
         out.writerow(line)
+
+    for name in sorted(set(gcs.keys())-gcs_spells_found):
+        print("GCS spell %s not found" % (name, ), file=sys.stderr)
+
+# Remaining mismatches
+# - Boost/Steal Attribute: exist as one spell per attribute
+# - Divination: exist as ~specialties (after a colon)
 
 if __name__ == '__main__':
     annotate_csv(sys.argv[1], sys.argv[2])
