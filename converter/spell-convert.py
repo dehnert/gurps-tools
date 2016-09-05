@@ -39,6 +39,19 @@ def parse_spell_prereq(elem):
         else:
             raise ValueError("Unknown college comparator %s" % (college_req('compare'), ))
 
+    req = elem.find('college_count')
+    if req is not None:
+        assert text == '???', "unexpected use of name/college and college_count requirement"
+        if req.get('compare') == 'at least':
+            text = 'spells from ' + req.text + ' colleges'
+        else:
+            raise ValueError("Unknown college_count comparator %s" % (req.get('compare'), ))
+
+    req = elem.find('any')
+    if req is not None:
+        assert text == '???', "unexpected use of any requirement"
+        text = 'any spell'
+
     quant_req = elem.find('quantity')
     if quant_req is not None:
         if quant_req.get('compare') == 'at least':
@@ -174,7 +187,6 @@ def annotate_csv(gcs_file, scpl_file):
 
     gcs_spells_found = set()
     for line in scpl:
-        pprint.pprint(line)
         name, spell = find_gcs_spell(gcs, line['Spell'])
         if spell:
             line.update(spell)
