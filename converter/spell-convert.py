@@ -149,6 +149,12 @@ def find_gcs_spell(gcs, scpl_name):
     if name.endswith(' (vh)'): name = name[:-5]
     if name.endswith('/tl'): name = name[:-3]
     candidate_names = [name, name.replace('-', ' '), name.replace("’", "'"), name.replace('ä', 'a'), name.replace('sense', '@sense@')]
+
+    # A handful of special cases
+    if scpl_name == 'Boost Attribute': candidate_names.append('boost dexterity')
+    if scpl_name == 'Steal Attribute (VH)': candidate_names.append('steal dexterity')
+    if scpl_name == 'Divination': candidate_names.append('divination: astrology')
+
     for candidate_name in candidate_names:
         if candidate_name in gcs: break
 
@@ -177,10 +183,6 @@ def annotate_csv(gcs_file, scpl_file):
 
     for name in sorted(set(gcs.keys())-gcs_spells_found):
         print("GCS spell %s not found" % (name, ), file=sys.stderr)
-
-# Remaining mismatches
-# - Boost/Steal Attribute: exist as one spell per attribute
-# - Divination: exist as ~specialties (after a colon)
 
 if __name__ == '__main__':
     annotate_csv(sys.argv[1], sys.argv[2])
