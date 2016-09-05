@@ -1,0 +1,958 @@
+Prereq Count,Spell,College
+0,Purify Air,Air
+0,Seek Air,Air
+1,Create Air,Air
+1,No-Smell,Air
+1,Stench,Air
+2,Destroy Air,Air
+2,Odor,Air
+2,Shape Air,Air
+3,Air Jet,Air
+3,Air Vision,Air
+3,Body of Air,Air
+3,Devitalize Air,Air
+3,Walk on Air,Air
+3,Wall of Wind,Air
+3,Windstorm,Air
+4,Clouds,Air
+4,Earth to Air,Air
+4,Predict Weather,Air
+4,Wind,Air
+5,Air Vortex,Air
+5,Concussion,Air
+5,Rain,Air
+6,Breathe Water,Air
+6,Breathe Air,Air
+6,Essential Air,Air
+6,Lightning,Air
+6,Resist Lightning,Air
+7,Body of Lightning (VH),Air
+7,Explosive Lightning,Air
+7,Lightning Weapon,Air
+7,Lightning Whip,Air
+7,Shocking Touch,Air
+7,Snow,Air
+7,Spark Cloud,Air
+7,Spark Storm,Air
+7,Wall of Lightning,Air
+8,Ball of Lightning,Air
+8,Lightning Missiles,Air
+8,Lightning Stare (VH),Air
+8,Sandstorm,Air
+8,Summon Elemental,Air
+8,Warm,Air
+9,Atmosphere Dome,Air
+9,Control Elemental,Air
+9,Cool,Air
+10,Body of Wind,Air
+10,Create Elemenal,Air
+10,Storm,Air
+12,Liighting Armor,Air
+0,Beast-Rouser,Animal
+0,Beast-Soother,Animal
+1,Animal Control,Animal
+1,Beast Summoning,Animal
+1,Master,Animal
+2,Beast Link,Animal
+2,Beast Speech,Animal
+2,Repel Animal,Animal
+2,Rider,Animal
+2,Spider Silk,Animal
+3,Beast-Seeker,Animal
+3,Rider Within,Animal
+4,Beast Posssession,Animal
+4,Repel Hybrids (VH),Animal
+5,Permanent Beast Possession (VH),Animal
+6,Shapeshifting (VH),Animal
+7,Permanent Shapeshifting (VH),Animal
+7,Protect Animal,Animal
+7,Shapeshift Others (VH),Animal
+12,Partial Shapeshifting (VH),Animal
+15,Great Shapeshift (VH),Animal
+3,Hybrid Control (VH),Animall
+0,Climbing,Body
+0,Debility,Body
+0,Itch,Body
+0,Touch,Body
+1,Frailty,Body
+1,Hinder,Body
+1,Might,Body
+1,Spasm,Body
+2,Clumsiness,Body
+2,Pain,Body
+2,Rooted Feet,Body
+2,Stop Spasm,Body
+2,Strike Dumb,Body
+2,Tanglefoot,Body
+2,Tickle,Body
+2,Vigor,Body
+3,Fumble,Body
+3,Grace,Body
+3,Hold Breath,Body
+3,Hunger,Body
+3,Perfume,Body
+3,Resist Pain,Body
+3,Stun,Body
+4,Ambidexterity,Body
+4,Balance,Body
+4,Roundabout,Body
+4,Sensitize,Body
+4,Strike Blind,Body
+4,Strike Deaf,Body
+4,Strike Numb,Body
+5,Agonize,Body
+5,Cadence,Body
+5,Choke,Body
+5,Control Limb,Body
+5,Hair Growth,Body
+5,Nauseate,Body
+5,Paralyze Limb,Body
+5,Reflexes,Body
+5,Sickness,Body
+5,Thirst,Body
+5,Weaken Blood,Body
+6,Total Paralysis,Body
+6,Wither Limb,Body
+7,Deathtouch,Body
+7,Lengthen Limb,Body
+7,Retch,Body
+7,Strike Barren,Body
+8,Alter Voice,Body
+8,Haircut,Body
+9,Alter Visage,Body
+10,Alter Body,Body
+11,Decapitation (VH),Body
+11,Enlarge (VH),Body
+11,Shrink (VH),Body
+12,Enlarge Other (VH),Body
+12,Shrink Other (VH),Body
+13,Transform Body,Body
+15,Gauntness (VH),Body
+15,Transform Other,Body
+16,Corpulence (VH),Body
+32,Transmogrification,Body
+Varies,Boost Attribute,Body
+0,Sense Foes,Comm
+0,Sense Life,Comm
+1,Sense Emotion,Comm
+2,Hide Emotion,Comm
+2,Persuasion,Comm
+2,Truthsayer,Comm
+2,Vexation,Comm
+3,Compel Truth,Comm
+3,Dream Sending,Comm
+3,Dream Viewing,Comm
+3,Hide Thoughts,Comm
+3,Lend Language,Comm
+3,Mind-Reading,Comm
+4,Borrow Language,Comm
+4,Compel Lie,Comm
+4,Dream Projection,Comm
+4,Mind-Search (VH),Comm
+4,Mind-Sending,Comm
+4,Soul Rider,Comm
+5,Control Person,Comm
+5,Dispel Possession,Comm
+5,Gift of Letters (VH),Comm
+5,Gift of Tongues (VH),Comm
+5,Lend Skill,Comm
+5,Possession (VH),Comm
+5,Telepathy (VH),Comm
+6,Borrow Skill,Comm
+6,Permanent Possession(VH),Comm
+6,Retrogression,Comm
+7,Message,Comm
+8,Insignificance,Comm
+8,Presence,Comm
+9,Communication (VH),Comm
+17,Exchange Bodies (VH),Comm
+13,Machine Speech/TL,Communication
+0,Seek Earth,Earth
+1,Seek Pass,Earth
+1,Shape Earth,Earth
+2,Earth to Stone,Earth
+2,Earth Vision,Earth
+3,Create Earth,Earth
+3,Stone to Earth,Earth
+4,Earth to Air,Earth
+4,Partial Petrification (VH),Earth
+4,Predice Earth Movement,Earth
+4,Rain of Stones,Earth
+4,Sand Jet,Earth
+4,Stone Missile,Earth
+4,Walk Through Earth,Earth
+5,Earth to Water,Earth
+5,Steelwraith,Earth
+5,Stone to Flesh,Earth
+6,Body of Stone (VH),Earth
+6,Earthquake,Earth
+6,Essential Earth,Earth
+8,Mud Jet,Earth
+8,Purify Earth,Earth
+8,Sandstorm,Earth
+8,Summon Elemental,Earth
+9,Control Elemental,Earth
+10,Create Elemenal,Earth
+11,Alter Terrain (VH),Earth
+13,Volcano,Earth
+29,Move Terrain (VH),Earth
+55,Entombment,Earth
+3,Flesh to Stone,Eath
+0,Scroll,Ench
+10,Enchant (VH),Ench
+11,Bane,Ench
+11,Deflect,Ench
+11,Fortify,Ench
+11,Graceful Weapon,Ench
+11,Hex,Ench
+11,Lesser Wish (VH),Ench
+11,Lighten,Ench
+11,Limit,Ench
+11,Loyal Sword,Ench
+11,Malefice (VH),Ench
+11,Manastone (VH),Ench
+11,Name,Ench
+11,One-College Powerstone,Ench
+11,Password,Ench
+11,Penetrating Weapon,Ench
+11,Powerstone,Ench
+11,Quick-Draw,Ench
+11,Remove Enchantment,Ench
+11,Speed,Ench
+11,Staff,Ench
+11,Suspend Enchantment,Ench
+11,Temporary Enchantment,Ench
+12,Attune,Ench
+12,Dancing Sheild,Ench
+12,Dancing Weapon,Ench
+12,Defending Weapon,Ench
+12,Ensorcel (VH),Ench
+12,Impression Blocker,Ench
+12,Power,Ench
+12,Resist Enchantment,Ench
+12,Weapon Spirit,Ench
+13,Cornucopia,Ench
+13,Crystal Ball,Ench
+13,Effigy (VH),Ench
+14,Adjustable Clothing,Ench
+14,Defending Shield,Ench
+14,Ghost Weapon,Ench
+14,Golem (VH),Ench
+14,Quick-Aim,Ench
+15,Accuracy,Ench
+15,Hideaway,Ench
+15,Homonculus,Ench
+15,Puissance,Ench
+16,Leak,Ench
+16,Spell Stone,Ench
+17,Spell Arrow,Ench
+17,Wish (VH),Ench
+18,Blank Spell Arrow (VH),Ench
+18,Great Wish (VH),Ench
+18,Simulacrum (VH),Ench
+18,Speed Spell Arrow,Ench
+19,Lich (VH),Ench
+19,Soul Stone (VH),Ench
+24,Wraith (VH),Ench
+29,Doppelgänger (VH),Ench
+Varies,Amulet,Ench
+Varies,Talisman,Ench
+0,Ignite Fire,Fire
+0,Seek Fire,Fire
+1,Create Fire,Fire
+1,Extinguish Fire,Fire
+1,Phantom Flame,Fire
+1,Shape Fire,Fire
+2,Deflect Energy,Fire
+2,Fireproof,Fire
+2,Rain of Fire,Fire
+2,Slow Fire,Fire
+3,Fast Fire,Fire
+3,Fireball,Fire
+3,Flame Jet,Fire
+3,Heat,Fire
+3,Resist Fire,Fire
+3,Smoke,Fire
+4,Cold,Fire
+4,Explosive Fireball,Fire
+4,Flaming Weapon,Fire
+4,Resist Cold,Fire
+4,Warmth,Fire
+5,Flaming Missiles,Fire
+6,Burning Touch,Fire
+6,Essential Flame,Fire
+7,Breathe Fire (VH),Fire
+7,Fire Cloud,Fire
+7,Flaming Armor,Fire
+8,Body of Flames (VH),Fire
+8,Summon Elemental,Fire
+9,Control Elemental,Fire
+10,Burning Death (VH),Fire
+10,Create Elemenal,Fire
+0,Seek Food,Food
+1,Decay,Food
+1,Far-Tasting,Food
+1,Season,Food
+2,Mature,food
+2,Preserve Food,Food
+2,Purify Food,Food
+3,Cook,Food
+3,Hunger,Food
+3,Poison Food,Food
+3,Prepare Game,Food
+3,Wizard Nose,Food
+4,Foul Water,Food
+4,Know Recipe,Food
+5,Create Food,Food
+5,Fool's Banquet,Food
+5,Thirst,Food
+5,Water to Wine,Food
+7,Distill,Food
+7,Wizard Mouth,Food
+8,Essential Food (VH),Food
+8,Scents of the Past,Food
+10,Monk’s Banquet,Food
+0,Test Food,Fooo
+4,Teleport (VH),Gate
+5,Beacon,Gate
+5,Blink,Gate
+5,Phase,Gate
+5,Rapid Journey (VH),Gate
+5,Teleport Other (VH),Gate
+5,Timeport (VH),Gate
+5,Trace Teleport,Gate
+6,Blink Other (VH),Gate
+6,Divert Teleport (VH),Gate
+6,Phase Other (VH),Gate
+6,Timeport Other (VH),Gate
+6,Timeslip,Gate
+7,Planar Visit (VH),Gate
+7,Teleport Shield,Gate
+7,Timeslip Other (VH),Gate
+10,Create Door,Gate
+10,Planar Summons,Gate
+11,Plane Shift (VH),Gate
+11,Seek Gate,Gate
+12,Control Gate,Gate
+12,Plane Shift Other (VH),Gate
+12,Scry Gate,Gate
+14,Create Gate (VH),Gate
+20,Accelerate Time (VH),Gate
+20,Hide Object,Gate
+20,Slow Time (VH),Gate
+21,Sanctuary (VH),Gate
+21,Suspend Time (VH),Gate
+21,Time Out (VH),Gate
+0,Lend Energy,Healing
+1,Body-Reading,Healing
+1,Detect Poison,Healing
+1,Lend Vitality,Healing
+1,Neutralize Poison,Healing
+1,Recover Energy,Healing
+1,Share Energy,Healing
+2,Awaken,Healing
+2,Instant Neutralize Poison,Healing
+2,Minor Healing,Healing
+2,Relieve Addiction,Healing
+2,Relieve Sickness,Healing
+2,Remove Contagion,Healing
+2,Share Vitality,Healing
+2,Stop Bleeding,Healing
+2,Stop Spasm,Healing
+3,Major Healing (VH),Healing
+3,Resist Disease,Healing
+3,Resist Poison,Healing
+3,Restore Memory,Healing
+4,Great Healing (VH),Healing
+4,Restoration (VH),Healing
+4,Restore Hearing,Healing
+4,Restore Sight,Healing
+4,Stop Paralysis,Healing
+5,Cure Disease,Healing
+5,Instant Restoration (VH),Healing
+5,Regeneration (VH),Healing
+5,Relieve Paralysis,Healing
+6,Healing Slumber,Healing
+6,Instant Regeneration (VH),Healing
+6,Resore Spech,Healing
+7,Suspended Animation,Healing
+8,Halt Aging (VH),Healing
+9,Relieve Madness,Healing
+9,Resurrection (VH),Healing
+9,Youth (VH),Healing
+12,Cleansing,Healing
+12,Cure Radiation (VH),Healing
+0,Final Rest,Helaing
+0,Simple Illusion,Illusion
+1,Illusion Disguise,Illusion
+1,Illusion Shell,Illusion
+1,Independence,Illusion
+1,Know Illusion,Illusion
+1,Phantom Flame,Illusion
+2,Complex Illusion,Illusion
+3,Perfect Illusion,Illusion
+4,Control Illusion,Illusion
+5,Dispel Illusion,Illusion
+7,Inscribe,Illusion
+7,Phantom (VH),Illusion
+8,Create Object (VH),Illusion
+9,Create Servant,Illusion
+9,Initiative,Illusion
+10,Control Creation,Illusion
+10,Create Warrior,Illusion
+11,Dispel Creation,Illusion
+12,Create Animal,Illusion
+13,Create Mount,Illusion
+15,Duplicate (VH),Illusion
+0,Detect Magic,Knowledge
+0,Far-Feeling,Knowledge
+0,Find Direction,Knowledge
+0,Measurement,Knowledge
+0,Tell Time,Knowledge
+1,Alarm,Knowledge
+1,Aura,Knowledge
+1,Far-Tasting,Knowledge
+1,Identify Spell,Knowledge
+1,Mage Sense,Knowledge
+1,Mage Sight,Knowledge
+1,Seek Magic,Knowledge
+1,Sense Mana,Knowledge
+1,Small Vision,Knowledge
+1,Tell Position,Knowledge
+1,Test Load,Knowledge
+2,Earth Vision,Knowledge
+2,Know Location,Knowledge
+2,Pathfinder,Knowledge
+2,Seeker,Knowledge
+2,Summon Shade (VH),Knowledge
+2,Wizard Eye,Knowledge
+3,Air Vision,Knowledge
+3,Analyze Magic,Knowledge
+3,Glass Wall,Knowledge
+3,Metal Vision,Knowledge
+3,Plant Vision,Knowledge
+3,Trace,Knowledge
+3,Wizard Nose,Knowledge
+4,Far-Healing,Knowledge
+4,History,Knowledge
+4,Know Recipe,Knowledge
+4,Plastic Vision,Knowledge
+4,Wizard Hand,Knowledge
+5,Ancient History,Knowledge
+5,See Secrets,Knowledge
+6,Astral Vision (VH),Knowledge
+6,Images of the Past,Knowledge
+6,Memorize,Knowledge
+6,Prehistory,Knowledge
+6,Projection,Knowledge
+7,Echoes of the Past,Knowledge
+7,Reconstruct Spell,Knowledge
+7,Remember Path,Knowledge
+7,Schematic/TL,Knowledge
+7,Wizard Mouth,Knowledge
+8,Scents of the Past,Knowledge
+9,Know Trus Shape,Knowledge
+9,Recall,Knowledge
+10,Invisible Wizard Eye,Knowledge
+Varies,Divination,Knowledge
+0,Light,Lt-Dk
+1,Bright Vision,Lt-Dk
+1,Colors,Lt-Dk
+1,Continual Light,Lt-Dk
+1,Hawk Vision,Lt-Dk
+1,Infravision,Lt-Dk
+1,Night Vision,Lt-Dk
+1,Remove Shadow,Lt-Dk
+1,Shape Light,Lt-Dk
+1,Small Vision,Lt-Dk
+2,Dark Vision,Lt-Dk
+2,Darkness,Lt-Dk
+2,Flash,Lt-Dk
+2,Gloom,Lt-Dk
+2,Glow,Lt-Dk
+2,Hide,Lt-Dk
+2,Light Jet,Lt-Dk
+2,Mirror,Lt-Dk
+2,Remove Reflection,Lt-Dk
+2,Wall of Light,Lt-Dk
+3,Blackout,Lt-Dk
+3,Blur,Lt-Dk
+3,Mage Light,Lt-Dk
+3,See Invisible,Lt-Dk
+3,Shape Darkness,Lt-Dk
+4,Body of Shadow,Lt-Dk
+4,Sunlight,Lt-Dk
+5,Continual Mage Light,Lt-Dk
+5,Continual Sunlight,Lt-Dk
+6,Images of the Past,Lt-Dk
+6,Invisibility,Lt-Dk
+6,Sunbolt,Lt-Dk
+14,Remove Aura,Meta
+20,Bless,Meta
+0,Counterspell,Meta-Spell
+0,Scryguard,Meta-Spell
+0,Suspend Spell,Meta-Spell
+0,Ward,Meta-Spell
+1,Conceal Magic,Meta-Spell
+1,Great Ward,Meta-Spell
+1,Reflect,Meta-Spell
+1,Scrywall,Meta-Spell
+1,Seek Magic,Meta-Spell
+3,False Aura,Meta-Spell
+3,Scryfool,Meta-Spell
+4,Catch Spell (VH),Meta-Spell
+7,Magic Resistance,Meta-Spell
+8,Spell Shield,Meta-Spell
+9,Pentegram,Meta-Spell
+9,Spell Wall,Meta-Spell
+9,Suspend Magic,Meta-Spell
+10,Displace Spell,Meta-spell
+11,Lend Spell,Meta-Spell
+11,Suspend Mana (VH),Meta-Spell
+12,Charge Powerstone (VH),Meta-Spell
+12,Suspend Curse,Meta-Spell
+12,Telecast (VH),Meta-Spell
+13,Dispel Magic,Meta-Spell
+13,Remove Curse,Meta-Spell
+13,Steal Spell (VH),Meta-Spell
+14,Drain Mana (VH),Meta-Spell
+14,Restore Mana (VH),Meta-Spell
+14,Spellguard (VH),Meta-Spell
+15,Delay,Meta-Spell
+16,Hang Spell (VH),Meta-Spell
+16,Link,Meta-Spell
+16,Penetrating Spell,Meta-Spell
+16,Reflex,Meta-Spell
+16,Throw Spell (VH),Meta-Spell
+17,Maintain Spell (VH),Meta-Spell
+20,Curse,Meta-Spell
+20,Suspend Magery (VH),Meta-Spell
+21,Drain Magery (VH),Meta-Spell
+0,Dull Sense,Mind
+0,Fear,Mind
+0,Foolishness,Mind
+0,Keen Sense,Mind
+1,Bravery,Mind
+1,Daze,Mind
+1,Disorient,Mind
+1,Forgetfulness,Mind
+1,Panic,Mind
+1,Terror,Mind
+1,Weaken Will,Mind
+2,Alertness (VH),Mind
+2,Berserker,Mind
+2,Command,Mind
+2,Dullness (VH),Mind
+2,Encrypt,Mind
+2,Farcinate,Mind
+2,Madness,Mind
+2,Mass Daze,Mind
+2,Mental Stun,Mind
+2,Mindlessness (VH),Mind
+2,Permanent Forgetfulness (VH),Mind
+2,Sleep,Mind
+3,Dream Sending,Mind
+3,Emotion Control,Mind
+3,Loyalty,Mind
+3,Mass Sleep,Mind
+3,Permanent Madness (VH),Mind
+3,Rear Vision,Mind
+4,Avoid,Mind
+4,Compel Lie,Mind
+4,Dream Projection,Mind
+4,Drunkenness,Mind
+4,Ecstasy (VH),Mind
+4,Lure,Mind
+4,Oath,Mind
+4,Vigil (VH),Mind
+4,Will Lock,Mind
+5,Nightmare,Mind
+5,Peaceful Sleep,Mind
+5,Sickness,Mind
+5,Suggestion,Mind
+6,Enthrall,Mind
+6,Glib Tongue,Mind
+6,Mass Suggestion,Mind
+6,Memorize,Mind
+6,Strengthen Will,Mind
+6,Wisdom,Mind
+7,False Memory,Mind
+7,Hallucination,Mind
+8,Charm,Mind
+8,Great Hallucination (VH),Mind
+9,Recall,Mind
+9,Relieve Madness,Mind
+10,Lesser Geas (VH),Mind
+14,Enslave (VH),Mind
+15,Gread Geas (VH),Mind
+Varies,Boost Attribute,Mind
+0,Inspired Creation (VH),Mk-Brk
+1,Restore,Mk-Brk
+2,Clean,Mk-Brk
+3,Awaken Craft Spirit,Mk-Brk
+3,Soilproof,Mk-Brk
+4,Dye,Mk-Brk
+4,Find Weakness,Mk-Brk
+5,Copy,Mk-Brk
+5,Weaken,Mk-Brk
+6,Animate Object (VH),Mk-Brk
+6,Shatter (VH),Mk-Brk
+7,Inscribe,Mk-Brk
+7,Rejoin,Mk-Brk
+7,Reshape,Mk-Brk
+7,Rive (VH),Mk-Brk
+8,Explode (VH),Mk-Brk
+8,Repair,Mk-Brk
+8,Ruin,Mk-Brk
+8,Stiffen,Mk-Brk
+9,Knot,Mk-Brk
+9,Mapmaker,Mk-Brk
+9,Mystic Mark,Mk-Brk
+9,Sharpen,Mk-Brk
+9,Transparancy,Mk-Brk
+10,Fasten,Mk-Brk
+10,Shatterproof,Mk-Brk
+11,Toughen,Mk-Brk
+12,Weapon Self (VH),Mk-Brk
+14,Tranform Object (VH),Mk-Brk
+15,Contract Object (VH),Mk-Brk
+15,Extend Object (VH),Mk-Brk
+16,Enlarge Object (VH),Mk-Brk
+16,Shrink Object (VH),Mk-Brk
+17,Disintegrate (VH),Mk-Brk
+22,Rebuild/TL,Mk-Brk
+0,Apportation,Movement
+0,Haste,Movement
+1,Dancing Object,Movement
+1,Deflect Missile,Movement
+1,Distant Blow,Movement
+1,Glue,Movement
+1,Grease,Movement
+1,Great Haste (VH),Movement
+1,Hinder,Movement
+1,Hold Fast,Movement
+1,Increase Burden,Movement
+1,Jump,Movement
+1,Levitation,Movement
+1,Lighten Burden,Movement
+1,Lockmaster,Movement
+1,Locksmith,Movement
+1,Long March,Movement
+1,Poltergeist,Movement
+1,Quick March,Movement
+1,Slow Fall,Movement
+1,Wallwalker,Movement
+2,Flight (VH),Movement
+2,Manipulate,Movement
+2,Slow,Movement
+2,Undo,Movement
+2,Winged Knife,Movement
+3,Flying Carpet (VH),Movement
+3,Hawk Flight (VH),Movement
+3,Light Tread,Movement
+3,Slide,Movement
+4,Ethereal Body (VH),Movement
+4,Pull,Movement
+4,Repel,Movement
+4,Teleport (VH),Movement
+4,Wizard Hand,Movement
+5,Air Vortex,Movement
+5,Beacon,Movement
+5,Blink,Movement
+5,Rapid Journey (VH),Movement
+5,Teleport Other (VH),Movement
+5,Trace Teleport,Movement
+6,Blink Other (VH),Movement
+6,Divert Teleport (VH),Movement
+6,Swim,Movement
+9,Cloud-Walking,Movement
+9,Freedom,Movement
+12,Cloud-Vaulting (VH),Movement
+0,Death Vision,Necro
+1,Sense Spirit,Necro
+1,Summon Spirit,Necro
+2,Animation (VH),Necro
+2,Materialize,Necro
+3,Solidify,Necro
+3,Steal Energy,Necro
+3,Turn Spirit,Necro
+4,Affect Spirits,Necro
+4,Skull-Spirit,Necro
+4,Steal Vitality,Necro
+4,Zombie,Necro
+5,Command Spirit,Necro
+5,Control Zombie,Necro
+5,Mass Zombie (VH),Necro
+5,Turn Zombie,Necro
+5,Zombie Summoning,Necro
+6,Age (VH),Necro
+6,Evisceration (VH),Necro
+6,Slow Healing,Necro
+7,Pestilence,Necro
+7,Stop Healing,Necro
+9,Animate Shadow,Necro
+9,Rotting Death (VH),Necro
+9,Soul Jar (VH),Necro
+9,Steal Skill (VH),Necro
+10,Banish,Necro
+10,Summon Demon,Necro
+11,Entrap Spirit,Necro
+12,Bind Spirit (VH),Necro
+13,Steal Youth (VH),Necro
+14,Repel Spirits,Necro
+15,Steal Beauty (VH),Necro
+16,Astral Block,Necro
+19,Lich (VH),Necro
+24,Wraith (VH),Necro
+Varies,Steal Attribute (VH),Necro
+0,Final Rest,Necromancy
+3,Awaken Craft Spirit,Necromancy
+5,Weaken Blood,Necromancy
+6,Astral Vision (VH),Necromancy
+7,Strike Barren,Necromancy
+9,Resurrection (VH),Necromancy
+10,Burning Death (VH),Necromancy
+0,Seek Plant,Plant
+1,Identify Plant,Plant
+2,Heal Plant,Plant
+2,Shape Plant,Plant
+3,Bless Plants,Plant
+3,Hide Path,Plant
+3,Plant Growth,Plant
+3,Plant Vision,Plant
+3,Pollen Cloud,Plant
+4,Blight,Plant
+4,Blossom,Plant
+4,Conceal,Plant
+4,Create Plant,Plant
+4,Forest Warning,Plant
+4,Rejuvenate Plant,Plant
+4,Tangle Growth,Plant
+5,False Tracks,Plant
+5,Plant Sense,Plant
+5,Walk Through Plants,Plant
+5,Wither Plant,Plant
+6,Essential Wood,Plant
+6,Plant Control,Plant
+6,Plant Form,Plant
+6,Plant Speech,Plant
+6,Rain of Nuts,Plant
+6,Walk Through Wood,Plant
+7,Animate Plant,Plant
+7,Arboreal Immurement,Plant
+7,Body of Wood,Plant
+7,Plant Form Other,Plant
+8,Purify Earth,Plant
+11,Body of Slime,Plant
+0,Block,Protection
+0,Magelock,Protection
+0,Sense Danger,Protection
+0,Shield,Protection
+1,Armor,Protection
+1,Bladeturning,Protection
+1,Deflect Missile,Protection
+1,Detect Poison,Protection
+1,Hardiness,Protection
+1,Missile Shield,Protection
+1,Mystic Mist,Protection
+1,Nightingale,Protection
+1,Sense Observation,Protection
+1,Shade,Protection
+1,Turn Blade,Protection
+1,Umbrella,Protection
+1,Watchdog,Protection
+2,Catch Missile,Protection
+2,Resist Water,Protection
+2,Reverse Missiles,Protection
+3,Reflect Gaze (VH),Protection
+3,Resist Disease,Protection
+3,Resist Poison,Protection
+3,Returrn Missile,Protection
+4,Iron Arm,Protection
+4,Resist Sound,Protection
+4,Warmth,Protection
+5,Coolness,Protection
+6,Resist Lightning,Protection
+7,Protect Animal,Protection
+7,Resist Radiation,Protection
+7,Teleport Shield,Protection
+8,Resist Acid,Protection
+8,Weather Dome,Protection
+9,Atmosphere Dome,Protection
+9,Freedom,Protection
+9,Resist Pressure,Protection
+10,Force Dome,Protection
+11,Force Wall,Protection
+14,Utter Dome,Protection
+16,Utter Wall,Protection
+0,Sound,Sound
+0,Sound Vision,Sound
+1,Silence,Sound
+1,Thunderclap,Sound
+1,Voices,Sound
+2,Garble,Sound
+2,Hush,Sound
+2,Imitate Voice,Sound
+2,Wall of Silence,Sound
+3,Delayed Message,Sound
+3,Great Voice,Sound
+3,Mage-Stealth,Sound
+3,Noise,Sound
+4,Converse,Sound
+4,Far-Healing,Sound
+4,Resist Sound,Sound
+4,Scribe,Sound
+4,Sound Jet,Sound
+5,Concussion,Sound
+5,Musical Scribe,Sound
+6,Silver Tongue,Sound
+6,Wizard Ear,Sound
+7,Echoes of the Past,Sound
+7,Message,Sound
+7,Wizard Mouth,Sound
+8,Alter Voice,Sound
+14,Invisible Wizard Ear,Sound
+0,Identify Metal,Tech
+0,Identify Plastic,Tech
+0,See Radiation,Tech
+0,Seek Fuel/TL,Tech
+0,Seek Machine/TL,Tech
+0,Seek Plastic,Tech
+0,Seek Power/TL,Tech
+0,Test Fuel/TL,Tech
+1,Conduct Power/TL (VH),Tech
+1,Lend Power/TL,Tech
+1,Magnetic Vision,Tech
+1,Preserve Fuel/TL,Tech
+1,Radio Hearing,Tech
+1,Reveal Function/TL,Tech
+1,Seek Radiation,Tech
+1,Stop Power,Tech
+2,Purify Fuel/TL,Tech
+2,Shape Metal,Tech
+2,Spectrum Vision,Tech
+3,Body of Metal (VH),Tech
+3,Metal Vision,Tech
+3,Shape Plastic,Tech
+4,Body of Plastic,Tech
+4,Irradiate,Tech
+4,Plastic Vision,Tech
+5,Create Fuel/TL,Tech
+5,Steal Power/TL (VH),Tech
+6,Essential Fuel/TL,Tech
+7,Resist Radiation,Tech
+7,Schematic/TL,Tech
+8,Extinguish Radiation (VH),Tech
+8,Propel/TL,Tech
+8,Radiation Jet,Tech
+9,Breathe Radiation (VH),Tech
+10,Awaken Computer/TL,Tech
+11,Machine Control/TL,Tech
+12,Cure Radiation (VH),Tech
+12,Glitch/TL,Tech
+12,Machine Summoning/TL,Tech
+13,Machine Speech/TL,Tech
+13,Malfunction/TL,Tech
+15,Animate Machine/TL,Tech
+16,Machine Possession/TL,Tech
+17,Permanent Machine Possession/TL,Tech
+22,Draw Power/TL (VH),Tech
+22,Rebuild/TL,Tech
+0,Seek Water,Water
+1,Purify Water,Water
+1,Seek Coastline,Water
+1,Umbrella,Water
+2,Create Water,Water
+2,Resist Water,Water
+3,Destroy Water,Water
+3,Frost,Water
+3,Icy Weapon,Water
+3,Shape Water,Water
+4,Body of Water,Water
+4,Fog,Water
+4,Foul Water,Water
+4,Freeze,Water
+4,Ice Slick,Water
+4,Ice Sphere,Water
+4,Icy Missiles,Water
+4,Icy Touch,Water
+4,Melt Ice,Water
+4,Snow Shoes,Water
+4,Walk on Water,Water
+4,Walk Through Water,Water
+4,Water Jet,Water
+4,Water Vision,Water
+4,Waves,Water
+4,Whirlpool,Water
+5,Condense Steam,Water
+5,Coolness,Water
+5,Create Ice,Water
+5,Dehydrate,Water
+5,Earth to Water,Water
+5,Ice Dagger,Water
+5,Rain,Water
+6,Body of Ice (VH),Water
+6,Breathe Air,Water
+6,Breathe Water,Water
+6,Current,Water
+6,Dry Spring,Water
+6,Essential Water,Water
+6,Frostbite,Water
+6,Snow Jet,Water
+6,Swim,Water
+7,Create Acid,Water
+7,Distill,Water
+7,Rain of Acid,Water
+7,Snow,Water
+8,Acid Ball,Water
+8,Boil Water,Water
+8,Create Spring,Water
+8,Flesh to Ice (VH),Water
+8,Hail,Water
+8,Mud Jet,Water
+8,Resist Acid,Water
+8,Summon Elemental,Water
+8,Tide,Water
+9,Control Elemental,Water
+9,Create Steam,Water
+9,Geyser (VH),Water
+10,Acid Jet,Water
+10,Create Elemenal,Water
+10,Steam Jet,Water
+10,Storm,Water
+12,Icy Breath (VH),Water
+12,Rain of Ice Daggers,Water
+12,Spit Acid (VH),Water
+13,Essential Acid (VH),Water
+14,Breathe Steam (VH),Water
+3,Frost,Weather
+4,Clouds,Weather
+4,Fog,Weather
+4,Predict Weather,Weather
+4,Waves,Weather
+4,Wind,Weather
+5,Rain,Weather
+6,Current,Weather
+6,Lightning,Weather
+6,Resist Lightning,Weather
+7,Body of Lightning (VH),Weather
+7,Explosive Lightning,Weather
+7,Lightning Weapon,Weather
+7,Lightning Whip,Weather
+7,Shocking Touch,Weather
+7,Snow,Weather
+7,Spark Cloud,Weather
+7,Spark Storm,Weather
+7,Wall of Lightning,Weather
+8,Ball of Lightning,Weather
+8,Hail,Weather
+8,Lightning Missiles,Weather
+8,Lightning Stare (VH),Weather
+8,Tide,Weather
+8,Warm,Weather
+8,Weather Dome,Weather
+9,Cloud-Walking,Weather
+9,Cool,Weather
+10,Storm,Weather
+12,Cloud-Vaulting (VH),Weather
+12,Liighting Armor,Weather
